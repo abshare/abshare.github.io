@@ -1,4 +1,4 @@
->🚀最后更新时间: 2024-10-19 23:11:02
+>🚀最后更新时间: 2024-10-19 23:35:19
 
 ### 稳定好用质量保障机场-9.9元独享30天顶级流量
 ### 直连/中转节点，高速低延迟
@@ -35,19 +35,19 @@
 >🚀免费Clash订阅链接
 
 ```
-https:/Pb2W2M.absslk.xyz/b06dd48610caac64a6effd02049f3f65
+https:/vwqaOm.absslk.xyz/55451efe8cbfa5ef3a65ce55c1773e6b
 ```
 
 >🚀免费v2rayN订阅链接
 
 ```
-https:/Pb2W2M.absslk.xyz/b06dd48610caac64a6effd02049f3f65
+https:/vwqaOm.absslk.xyz/55451efe8cbfa5ef3a65ce55c1773e6b
 ```
 
 >🚀免费iOS小火箭订阅链接
 
 ```
-https:/Pb2W2M.absslk.xyz/b06dd48610caac64a6effd02049f3f65
+https:/vwqaOm.absslk.xyz/55451efe8cbfa5ef3a65ce55c1773e6b
 ```
 
 ***本站分享的免费Trojan节点仅提供URI链接，不提供二维码配置方式，所以请使用Trojan客户端添加节点URI链接即可。***<br/>
