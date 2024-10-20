@@ -1,11 +1,11 @@
->🚀最后更新时间: 2024-10-20 15:39:09
+>🚀最后更新时间: 2024-10-20 16:38:24
 
-### 稳定好用质量保障机场-9.9元独享30天顶级流量
+### 稳定好用质量保障机场-15元独享30天顶级流量
 ### 直连/中转节点，高速低延迟
 ### 原生ip-解锁绝大部分流媒体服务，无视高峰无需等待
 
 ### Allblue 蓝色海洋 流量套餐
-> 10月优惠活动
+> 11月优惠活动
 
 🚀新用户注册可免费试用2天
 
@@ -35,19 +35,19 @@
 >🚀免费Clash订阅链接
 
 ```
-https:/beWJev.absslk.xyz/9821cbe5c846e765dd83597b08dd6c81
+https:/kteGAU.absslk.xyz/01d1072b7b6a7450f621e3e12ecacc9b
 ```
 
 >🚀免费v2rayN订阅链接
 
 ```
-https:/beWJev.absslk.xyz/9821cbe5c846e765dd83597b08dd6c81
+https:/kteGAU.absslk.xyz/01d1072b7b6a7450f621e3e12ecacc9b
 ```
 
 >🚀免费iOS小火箭订阅链接
 
 ```
-https:/beWJev.absslk.xyz/9821cbe5c846e765dd83597b08dd6c81
+https:/kteGAU.absslk.xyz/01d1072b7b6a7450f621e3e12ecacc9b
 ```
 
 ***本站分享的免费Trojan节点仅提供URI链接，不提供二维码配置方式，所以请使用Trojan客户端添加节点URI链接即可。***<br/>
