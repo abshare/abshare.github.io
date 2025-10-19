@@ -1,4 +1,4 @@
->🚀最后更新时间: 2025-10-19 14:54:41
+>🚀最后更新时间: 2025-10-19 15:20:17
 
 ### 稳定好用质量保障机场
 ### 专线节点，高速低延迟
@@ -20,19 +20,19 @@
 >🚀免费Clash订阅链接
 
 ```
-https://mC9EDE.absslk.xyz/9a2f39ba2854d26dec4c094a0060f376
+https://j4LU2S.absslk.xyz/59205c4b539e884c31913c7bb439eccc
 ```
 
 >🚀免费v2rayN订阅链接
 
 ```
-https://mC9EDE.absslk.xyz/9a2f39ba2854d26dec4c094a0060f376
+https://j4LU2S.absslk.xyz/59205c4b539e884c31913c7bb439eccc
 ```
 
 >🚀免费iOS小火箭订阅链接
 
 ```
-https://mC9EDE.absslk.xyz/9a2f39ba2854d26dec4c094a0060f376
+https://j4LU2S.absslk.xyz/59205c4b539e884c31913c7bb439eccc
 ```
 
 ***本站分享的免费Trojan节点仅提供URI链接，不提供二维码配置方式，所以请使用Trojan客户端添加节点URI链接即可。***<br/>
