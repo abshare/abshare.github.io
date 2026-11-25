@@ -1,4 +1,4 @@
->🚀最后更新时间: 2026-11-25 14:55:26
+>🚀最后更新时间: 2026-11-25 15:38:59
 
 # Allblue 免费节点每日更新
 
@@ -18,7 +18,7 @@
 >🚀免费订阅链接（Clash / v2rayN / 小火箭通用）
 
 ```
-https://yVfeGm.absslk.xyz/f5d6f40d0d9feee44f04fdf59baffad6
+https://Uj5hMc.absslk.xyz/60270d585417b96de5f4514929cd8f85
 ```
 
 ## 怎么用（3 步）
